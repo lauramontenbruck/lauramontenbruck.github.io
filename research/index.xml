@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work in progress on Laura Montenbruck</title>
+    <link>https://lauramontenbruck.github.io/research/</link>
+    <description>Recent content in Work in progress on Laura Montenbruck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public Goods, Taxation, and Political Participation: A Field Experiment in Freetown, Sierra Leone</title>
+      <link>https://lauramontenbruck.github.io/research/pgtpp/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/pgtpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy, Informative, and Cheap? On the Effectiveness of Interactive Voice Response Calls</title>
+      <link>https://lauramontenbruck.github.io/research/covid-ivr/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/covid-ivr/</guid>
+      <description>The expansion of modern communication is creating enormous opportunities to gather survey data remotely. To explore this opportunity, we work with two NGOs in three provinces of rural Pakistan in testing two remote survey modalities&amp;mdash; telephonic interviews via enumerators and interactive voice recording. Our results show that interviews led by enumerators largely outperform robocalls in survey quality. In a panel survey with 12,017 beneficiaries, robocalls had lower call pick-up (by 57%), consent (by 92%), and interview completion rates (by 91%). Mistrust in automatized calls, respondent unavailability and low technical skills were self-reported challenges for robocall recipients. Additionally, testing robocall framing, we find evidence of bias towards female voice recordings in acquiring consent. Medical and religious contextualization also improve outcomes such as overall item response. Robocalls are also less cost-effective in our sample, where a completed interview using IVR is approximately 88 times as expensive as one conducted via an enumerator.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Information in Changing COVID-19 Related Perceptions and Behavior: Evidence from Pakistan</title>
+      <link>https://lauramontenbruck.github.io/research/covid-awareness/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/covid-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Economics of Women&#39;s Rights</title>
+      <link>https://lauramontenbruck.github.io/research/womens-rights/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/womens-rights/</guid>
+      <description>Two centuries ago, in most countries around the world, women were unable to vote, had no say over their own children or property, and could not obtain a divorce. Women have gradually gained rights in many areas of life, and this legal expansion has been closely intertwined with economic development. We aim to understand the drivers behind these reforms. To this end, we distinguish between four types of women’s rights—economic, political, labor, and body—and document their evolution over the past 50 years across countries. We summarize the political-economy mechanisms that link economic development to changes in women’s rights and show empirically that these mechanisms account for a large share of the variation in women’s rights across countries and over time.</description>
+    </item>
+    
+    <item>
+      <title>Accidents caused by kerosene lamps—New evidence from African household data</title>
+      <link>https://lauramontenbruck.github.io/research/kerosene-lamps/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/kerosene-lamps/</guid>
+      <description>The use of kerosene for lighting, cooking, and heating in developing countries is often considered a major health threat as it can cause accidents like thermal inju- ries, poisonings, fires, or explosions. The evidence to prove this is extremely scarce, though. The present paper is one of the first to investigate the link between kerosene-based lighting and accidents at the household level. We use survey data from 3,326 nonelectrified households in Burkina Faso, Rwanda, Senegal, and Zambia and observe very heterogeneous kerosene lamp usage rates. In some regions, accidents with kerosene lamps occur in a substantial share of the popula- tion, but the absolute incidence is rather low.</description>
+    </item>
+    
+    <item>
+      <title>Gender Matters. Biases in Self-Reported Plot Size Data</title>
+      <link>https://lauramontenbruck.github.io/research/gender-plots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/gender-plots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
