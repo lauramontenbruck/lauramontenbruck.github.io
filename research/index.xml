@@ -6,22 +6,22 @@
     <description>Recent content in Work in progress on Laura Montenbruck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On the Road to Female Empowerment: Evidence from the Free Public Transport Program in New Delhi</title>
-      <link>https://lauramontenbruck.github.io/research/gender-india/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/gender-india/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Goods, Taxation, and Political Participation: A Field Experiment in Freetown, Sierra Leone</title>
       <link>https://lauramontenbruck.github.io/research/pgtpp/</link>
-      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lauramontenbruck.github.io/research/pgtpp/</guid>
+      <description>&lt;em&gt;Manuscript available upon request.&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gender Matters. Biases in Self-Reported Plot Size Data</title>
+      <link>https://lauramontenbruck.github.io/research/gender-plots/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/gender-plots/</guid>
       <description></description>
     </item>
     
@@ -59,15 +59,6 @@
       
       <guid>https://lauramontenbruck.github.io/research/kerosene-lamps/</guid>
       <description>The use of kerosene for lighting, cooking, and heating in developing countries is often considered a major health threat as it can cause accidents like thermal inju- ries, poisonings, fires, or explosions. The evidence to prove this is extremely scarce, though. The present paper is one of the first to investigate the link between kerosene-based lighting and accidents at the household level. We use survey data from 3,326 nonelectrified households in Burkina Faso, Rwanda, Senegal, and Zambia and observe very heterogeneous kerosene lamp usage rates. In some regions, accidents with kerosene lamps occur in a substantial share of the population, but the absolute incidence is rather low.</description>
-    </item>
-    
-    <item>
-      <title>Gender Matters. Biases in Self-Reported Plot Size Data</title>
-      <link>https://lauramontenbruck.github.io/research/gender-plots/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/gender-plots/</guid>
-      <description></description>
     </item>
     
   </channel>
