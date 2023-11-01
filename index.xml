@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiscal Exchange and Tax Compliance: Strengthening the Social Contract Under Low State Capacity</title>
-      <link>https://lauramontenbruck.github.io/research/pgtpp/</link>
+      <link>https://lauramontenbruck.github.io/research/fiscal-exchange/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lauramontenbruck.github.io/research/pgtpp/</guid>
+      <guid>https://lauramontenbruck.github.io/research/fiscal-exchange/</guid>
       <description>This article provides evidence that increased salience of public service provision can strengthen the social contract and increase tax compliance in a low-capacity setting. I conduct a field experiment randomizing information about public service provision across 5,494 property owners and tenants in Freetown, Sierra Leone. Receiving information increases property tax payments by 20% on average. The effect is driven by increases in tax compliance on both the extensive and intensive margin. Residents of low-value properties are 7–16 percentage points more likely to pay taxes when informed about public services that are both geographically accessible and respond to the citizens’ most urgent needs, suggesting a benefit-based approach to taxation. Revenue effects are largely driven by residents of high-value properties, who depend less on the public provision of services, and for whom the treatment seems to act as a more general signal of government performance.
 &lt;em&gt;Draft available soon.&lt;/em&gt;</description>
     </item>
@@ -23,15 +23,6 @@
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lauramontenbruck.github.io/research/gender-india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sexual Harassment and Women&#39;s Career Choices: Evidence from Ghanaian Universities</title>
-      <link>https://lauramontenbruck.github.io/research/gender-ghana/</link>
-      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/gender-ghana/</guid>
       <description></description>
     </item>
     
@@ -87,6 +78,16 @@
       
       <guid>https://lauramontenbruck.github.io/research/kerosene-lamps/</guid>
       <description>The use of kerosene for lighting, cooking, and heating in developing countries is often considered a major health threat as it can cause accidents like thermal inju- ries, poisonings, fires, or explosions. The evidence to prove this is extremely scarce, though. The present paper is one of the first to investigate the link between kerosene-based lighting and accidents at the household level. We use survey data from 3,326 nonelectrified households in Burkina Faso, Rwanda, Senegal, and Zambia and observe very heterogeneous kerosene lamp usage rates. In some regions, accidents with kerosene lamps occur in a substantial share of the population, but the absolute incidence is rather low.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lauramontenbruck.github.io/research/2023-gender_ghana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/2023-gender_ghana/</guid>
+      <description>#&amp;mdash; #title: &amp;ldquo;Sexual Harassment and Women&amp;rsquo;s Career Choices: Evidence from Ghanaian Universities&amp;rdquo; #author: &amp;ldquo; Sarah Deschênes&amp;rdquo; #date: &amp;lsquo;2023-08-19&amp;rsquo; #slug: gender-ghana #tags:
+- Work in progress #summary: &amp;quot; &amp;quot; #featured: yes #full_abstract: no #show_links: yes #links: #show_post_date: false #&amp;mdash;</description>
     </item>
     
   </channel>
