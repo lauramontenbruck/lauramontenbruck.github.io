@@ -26,21 +26,30 @@
     </item>
     
     <item>
-      <title>Easy, Informative, and Cheap? On the Effectiveness of Interactive Voice Response Calls</title>
-      <link>https://lauramontenbruck.github.io/research/covid-ivr/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Public Service Provision and Political Participation</title>
+      <link>https://lauramontenbruck.github.io/research/political-participation/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lauramontenbruck.github.io/research/covid-ivr/</guid>
-      <description>The expansion of modern communication is creating enormous opportunities to gather survey data remotely. To explore this opportunity, we work with two NGOs in three provinces of rural Pakistan in testing two remote survey modalities&amp;mdash; telephonic interviews via enumerators and interactive voice recording. Our results show that interviews led by enumerators largely outperform robocalls in survey quality. In a panel survey with 12,017 beneficiaries, robocalls had lower call pick-up (by 57%), consent (by 92%), and interview completion rates (by 91%). Mistrust in automatized calls, respondent unavailability and low technical skills were self-reported challenges for robocall recipients. Additionally, testing robocall framing, we find evidence of bias towards female voice recordings in acquiring consent. Medical and religious contextualization also improve outcomes such as overall item response. Robocalls are also less cost-effective in our sample, where a completed interview using IVR is approximately 88 times as expensive as one conducted via an enumerator.</description>
+      <guid>https://lauramontenbruck.github.io/research/political-participation/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Involving Religious Leaders in COVID-19 Awareness Campaigns: Implications for Behavioral Change</title>
       <link>https://lauramontenbruck.github.io/research/covid-awareness/</link>
-      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://lauramontenbruck.github.io/research/covid-awareness/</guid>
-      <description></description>
+      <description>&lt;em&gt;Draft coming soon.&lt;/em&gt;</description>
+    </item>
+    
+    <item>
+      <title>Easy, Informative, and Cheap? On the Effectiveness of Interactive Voice Response Calls</title>
+      <link>https://lauramontenbruck.github.io/research/covid-ivr/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/covid-ivr/</guid>
+      <description>The expansion of modern communication is creating enormous opportunities to gather survey data remotely. In collaboration with two NGOs across three provinces in rural Pakistan, we assess the efficiency of telephonic interviews conducted by enumerators versus interactive voice recording (IVR, or robocalls). Our results show that interviews led by enumerators largely outperform robocalls in survey quality. In a panel survey with 12,017 NGO beneficiaries, robocalls had lower call pick-up (by 57%), consent (by 92%), and interview completion rates (by 91%). Mistrust in automatized calls, respondent unavailability, and not wanting to lose phone credit were self-reported reasons to drop IVR calls. Testing robocall framing, we find that female voice recordings can partly mitigate low IVR consent rates. Similarly, medical and religious contextualization improve outcomes such as overall item response. However, with 88 times the price of a completed enumerator-led interview, robocalls are substantially less cost-effective in our setting.</description>
     </item>
     
   </channel>
