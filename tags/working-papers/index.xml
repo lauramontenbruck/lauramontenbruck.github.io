@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working papers on Laura Montenbruck</title>
+    <link>https://lauramontenbruck.github.io/tags/working-papers/</link>
+    <description>Recent content in Working papers on Laura Montenbruck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/tags/working-papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Power of Faith: Effects of an Imam-led Information Campaign on Labor Supply and Social Interactions</title>
+      <link>https://lauramontenbruck.github.io/research/covid-awareness/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/covid-awareness/</guid>
+      <description>We conduct a randomized controlled trial in rural Pakistan, comparing the effects of a remote awareness campaign with and without Imam-led loudspeaker endorsements on strategies to contain disease spread. Our results show that labor supply and social interactions decrease significantly only when religious leaders support the campaign, particularly among men. These results cannot be explained by differences in the mode or frequency of treatment across groups. Our findings—compatible with predictions from a model that analyzes the individual trade-off between prevention benefits and losses from forgone income—highlight the critical role of religious figures in shaping public responses to health crises.</description>
+    </item>
+    
+    <item>
+      <title>Fiscal Exchange and Tax Compliance: Strengthening the Social Contract Under Low State Capacity</title>
+      <link>https://lauramontenbruck.github.io/research/fiscal-exchange/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lauramontenbruck.github.io/research/fiscal-exchange/</guid>
+      <description>This article provides evidence that increased salience of public service provision can strengthen the social contract and increase tax compliance in a low-capacity setting. I conduct a field experiment randomizing information about public service provision across 5,494 property owners and tenants in Freetown, Sierra Leone. Receiving information increases property tax payments by 20% on average. The effect is driven by increases in tax compliance on both the extensive and intensive margin. Residents of low-value properties are 7–16 percentage points more likely to pay taxes when informed about public services that are both geographically accessible and respond to the citizens’ most urgent needs, suggesting a benefit-based approach to taxation. Revenue effects are largely driven by residents of high-value properties, who depend less on the public provision of services, and for whom the treatment seems to act as a more general signal of government performance.</description>
+    </item>
+    
+  </channel>
+</rss>
