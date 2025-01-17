@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Laura Montenbruck</title>
-    <link>https://lauramontenbruck.github.io/research/</link>
-    <description>Recent content in Research on Laura Montenbruck</description>
+    <title>Publications and working papers on Laura Montenbruck</title>
+    <link>https://lauramontenbruck.github.io/tags/publications-and-working-papers/</link>
+    <description>Recent content in Publications and working papers on Laura Montenbruck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lauramontenbruck.github.io/tags/publications-and-working-papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiscal Exchange and Tax Compliance: Strengthening the Social Contract Under Low State Capacity</title>
       <link>https://lauramontenbruck.github.io/research/fiscal-exchange/</link>
@@ -23,42 +23,6 @@
       
       <guid>https://lauramontenbruck.github.io/research/covid-awareness/</guid>
       <description>We conduct a randomized controlled trial in rural Pakistan, comparing the effects of a remote awareness campaign with and without Imam-led loudspeaker endorsements on strategies to contain disease spread. Our results show that labor supply and social interactions decrease significantly only when religious leaders support the campaign, particularly among men. These results cannot be explained by differences in the mode or frequency of treatment across groups. Our findings—compatible with predictions from a model that analyzes the individual trade-off between prevention benefits and losses from forgone income—highlight the critical role of religious figures in shaping public responses to health crises.</description>
-    </item>
-    
-    <item>
-      <title>On the Road to Female Empowerment? Evidence from the Free Public Transport Program in New Delhi</title>
-      <link>https://lauramontenbruck.github.io/research/gender-india/</link>
-      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/gender-india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gender Matters. Biases in Self-Reported Plot Size Data</title>
-      <link>https://lauramontenbruck.github.io/research/gender-plots/</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/gender-plots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Service Provision and Political Participation</title>
-      <link>https://lauramontenbruck.github.io/research/political-participation/</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/political-participation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easy, Informative, and Cheap? On the Effectiveness of Interactive Voice Response Calls</title>
-      <link>https://lauramontenbruck.github.io/research/covid-ivr/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/research/covid-ivr/</guid>
-      <description>The expansion of modern communication is creating enormous opportunities to gather survey data remotely. In collaboration with two NGOs across three provinces in rural Pakistan, we assess the efficiency of telephonic interviews conducted by enumerators versus interactive voice recording (IVR, or robocalls). Our results show that interviews led by enumerators largely outperform robocalls in survey quality. In a panel survey with 12,017 NGO beneficiaries, robocalls had lower call pick-up (by 57%), consent (by 92%), and interview completion rates (by 91%). Mistrust in automatized calls, respondent unavailability, and not wanting to lose phone credit were self-reported reasons to drop IVR calls. Testing robocall framing, we find that female voice recordings can partly mitigate low IVR consent rates. Similarly, medical and religious contextualization improve outcomes such as overall item response. However, with 88 times the price of a completed enumerator-led interview, robocalls are substantially less cost-effective in our setting. &lt;br&gt; &lt;br&gt; &lt;em&gt;Updated draft coming soon.&lt;/em&gt;</description>
     </item>
     
     <item>
