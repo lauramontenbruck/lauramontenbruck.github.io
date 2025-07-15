@@ -4,7 +4,8 @@
     <title>Laura Montenbruck</title>
     <link>https://lauramontenbruck.github.io/teaching/current/</link>
     <description>Recent content on Laura Montenbruck</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://lauramontenbruck.github.io/teaching/current/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://lauramontenbruck.github.io/teaching/current/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current teaching on Laura Montenbruck</title>
+    <title>Current Teaching on Laura Montenbruck</title>
     <link>https://lauramontenbruck.github.io/jobs/current-teaching/</link>
-    <description>Recent content in Current teaching on Laura Montenbruck</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://lauramontenbruck.github.io/jobs/current-teaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://lauramontenbruck.github.io/teaching/current/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lauramontenbruck.github.io/teaching/current/</guid>
-      <description> 2024 - Public Finance (Undergraduate), Stockholm University (Syllabus) 2024 - Development Economics (Ph.D.), Stockholm University (Syllabus) </description>
-    </item>
-    
+    <description>Recent content in Current Teaching on Laura Montenbruck</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://lauramontenbruck.github.io/jobs/current-teaching/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
