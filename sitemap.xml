@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lauramontenbruck.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/fiscal-exchange/</loc>
+    <loc>http://localhost:1313/research/fiscal-exchange/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/tags/publications-and-working-papers/</loc>
+    <loc>http://localhost:1313/tags/publications-and-working-papers/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/covid-awareness/</loc>
+    <loc>http://localhost:1313/research/covid-awareness/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/gender-india/</loc>
+    <loc>http://localhost:1313/research/gender-india/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/tags/work-in-progress/</loc>
+    <loc>http://localhost:1313/tags/work-in-progress/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/gender-plots/</loc>
+    <loc>http://localhost:1313/research/gender-plots/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/political-participation/</loc>
+    <loc>http://localhost:1313/research/political-participation/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/covid-ivr/</loc>
+    <loc>http://localhost:1313/research/covid-ivr/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/womens-rights/</loc>
+    <loc>http://localhost:1313/research/womens-rights/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/license/</loc>
+    <loc>http://localhost:1313/license/</loc>
     <lastmod>2021-06-01T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/research/kerosene-lamps/</loc>
+    <loc>http://localhost:1313/research/kerosene-lamps/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/teaching/current/</loc>
+    <loc>http://localhost:1313/teaching/current/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/teaching/previous/</loc>
+    <loc>http://localhost:1313/teaching/previous/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/jobs/current-teaching/</loc>
+    <loc>http://localhost:1313/jobs/current-teaching/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/jobs/</loc>
+    <loc>http://localhost:1313/jobs/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/jobs/previous-teaching/</loc>
+    <loc>http://localhost:1313/jobs/previous-teaching/</loc>
   </url><url>
-    <loc>https://lauramontenbruck.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

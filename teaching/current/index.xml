@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Montenbruck</title>
-    <link>https://lauramontenbruck.github.io/teaching/current/</link>
+    <link>http://localhost:1313/teaching/current/</link>
     <description>Recent content on Laura Montenbruck</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://lauramontenbruck.github.io/teaching/current/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/current/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Montenbruck</title>
-    <link>https://lauramontenbruck.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Laura Montenbruck</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lauramontenbruck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fiscal Exchange and Tax Compliance: Strengthening the Social Contract Under Low State Capacity</title>
-      <link>https://lauramontenbruck.github.io/research/fiscal-exchange/</link>
+      <link>http://localhost:1313/research/fiscal-exchange/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/fiscal-exchange/</guid>
+      <guid>http://localhost:1313/research/fiscal-exchange/</guid>
       <description>This article provides evidence that increased salience of public service provision can strengthen the social contract and increase tax compliance in a low-capacity setting. I conduct a field experiment randomizing information about public service provision across 5,494 property owners and tenants in Freetown, Sierra Leone. Receiving information increases property tax payments by 20% on average. The effect is driven by increases in tax compliance on both the extensive and intensive margin. Residents of low-value properties are 7–16 percentage points more likely to pay taxes when informed about public services that are both geographically accessible and respond to the citizens’ most urgent needs, suggesting a benefit-based approach to taxation. Revenue effects are largely driven by residents of high-value properties, who depend less on the public provision of services, and for whom the treatment seems to act as a more general signal of government performance. &lt;br&gt; &lt;br&gt; &lt;em&gt;Job Market Paper&lt;/em&gt;</description>
     </item>
     <item>
       <title>The Power of Faith: Effects of an Imam-led Information Campaign on Labor Supply and Social Interactions</title>
-      <link>https://lauramontenbruck.github.io/research/covid-awareness/</link>
+      <link>http://localhost:1313/research/covid-awareness/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/covid-awareness/</guid>
+      <guid>http://localhost:1313/research/covid-awareness/</guid>
       <description>We conduct a randomized controlled trial in rural Pakistan, comparing the effects of a remote awareness campaign with and without Imam-led loudspeaker endorsements on strategies to contain disease spread. Our results show that labor supply and social interactions decrease significantly only when religious leaders support the campaign, particularly among men. These results cannot be explained by differences in the mode or frequency of treatment across groups. Our findings—compatible with predictions from a model that analyzes the individual trade-off between prevention benefits and losses from forgone income—highlight the critical role of religious figures in shaping public responses to health crises.</description>
     </item>
     <item>
       <title>On the Road to Female Empowerment? Evidence from the Free Public Transport Program in New Delhi</title>
-      <link>https://lauramontenbruck.github.io/research/gender-india/</link>
+      <link>http://localhost:1313/research/gender-india/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/gender-india/</guid>
+      <guid>http://localhost:1313/research/gender-india/</guid>
       <description></description>
     </item>
     <item>
       <title>Gender Matters. Biases in Self-Reported Plot Size Data</title>
-      <link>https://lauramontenbruck.github.io/research/gender-plots/</link>
+      <link>http://localhost:1313/research/gender-plots/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/gender-plots/</guid>
+      <guid>http://localhost:1313/research/gender-plots/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Service Provision and Political Participation</title>
-      <link>https://lauramontenbruck.github.io/research/political-participation/</link>
+      <link>http://localhost:1313/research/political-participation/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/political-participation/</guid>
+      <guid>http://localhost:1313/research/political-participation/</guid>
       <description></description>
     </item>
     <item>
       <title>Easy, Informative, and Cheap? On the Effectiveness of Interactive Voice Response Calls</title>
-      <link>https://lauramontenbruck.github.io/research/covid-ivr/</link>
+      <link>http://localhost:1313/research/covid-ivr/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/covid-ivr/</guid>
+      <guid>http://localhost:1313/research/covid-ivr/</guid>
       <description>The expansion of modern communication is creating enormous opportunities to gather survey data remotely. In collaboration with two NGOs across three provinces in rural Pakistan, we assess the efficiency of telephonic interviews conducted by enumerators versus interactive voice recording (IVR, or robocalls). Our results show that interviews led by enumerators largely outperform robocalls in survey quality. In a panel survey with 12,017 NGO beneficiaries, robocalls had lower call pick-up (by 57%), consent (by 92%), and interview completion rates (by 91%). Mistrust in automatized calls, respondent unavailability, and not wanting to lose phone credit were self-reported reasons to drop IVR calls. Testing robocall framing, we find that female voice recordings can partly mitigate low IVR consent rates. Similarly, medical and religious contextualization improve outcomes such as overall item response. However, with 88 times the price of a completed enumerator-led interview, robocalls are substantially less cost-effective in our setting. &lt;br&gt; &lt;br&gt; &lt;em&gt;Updated draft coming soon.&lt;/em&gt;</description>
     </item>
     <item>
       <title>The Economics of Women&#39;s Rights</title>
-      <link>https://lauramontenbruck.github.io/research/womens-rights/</link>
+      <link>http://localhost:1313/research/womens-rights/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/womens-rights/</guid>
+      <guid>http://localhost:1313/research/womens-rights/</guid>
       <description>Two centuries ago, in most countries around the world, women were unable to vote, had no say over their own children or property, and could not obtain a divorce. Women have gradually gained rights in many areas of life, and this legal expansion has been closely intertwined with economic development. We aim to understand the drivers behind these reforms. To this end, we distinguish between four types of women’s rights—economic, political, labor, and body—and document their evolution over the past 50 years across countries. We summarize the political-economy mechanisms that link economic development to changes in women’s rights and show empirically that these mechanisms account for a large share of the variation in women’s rights across countries and over time.</description>
     </item>
     <item>
       <title>LICENSE: CC-BY-SA</title>
-      <link>https://lauramontenbruck.github.io/license/</link>
+      <link>http://localhost:1313/license/</link>
       <pubDate>Tue, 01 Jun 2021 09:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/license/</guid>
-      <description>&lt;p&gt;My &#xA;&lt;a href=&#34;https://lauramontenbruck.github.io/blog/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
+      <guid>http://localhost:1313/license/</guid>
+      <description>&lt;p&gt;My &#xA;&lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
     </item>
     <item>
       <title>Accidents caused by kerosene lamps—New evidence from African household data</title>
-      <link>https://lauramontenbruck.github.io/research/kerosene-lamps/</link>
+      <link>http://localhost:1313/research/kerosene-lamps/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://lauramontenbruck.github.io/research/kerosene-lamps/</guid>
+      <guid>http://localhost:1313/research/kerosene-lamps/</guid>
       <description>The use of kerosene for lighting, cooking, and heating in developing countries is often considered a major health threat as it can cause accidents like thermal inju- ries, poisonings, fires, or explosions. The evidence to prove this is extremely scarce, though. The present paper is one of the first to investigate the link between kerosene-based lighting and accidents at the household level. We use survey data from 3,326 nonelectrified households in Burkina Faso, Rwanda, Senegal, and Zambia and observe very heterogeneous kerosene lamp usage rates. In some regions, accidents with kerosene lamps occur in a substantial share of the population, but the absolute incidence is rather low.</description>
     </item>
   </channel>
